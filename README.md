@@ -3,7 +3,7 @@ Atividades na aula 2 do curso de GIT
 
 ## Edição via site
 
-Editei no site do github
+Editei no site do github. editei agora aqui
 
 ## Edição local
 
